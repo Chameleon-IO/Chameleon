@@ -1,4 +1,4 @@
-Chameleon
-===================
+Chameleon  - Supporting documentation
+=====================================
 
-Supporting documentation
+
